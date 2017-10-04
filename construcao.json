@@ -1,7 +1,7 @@
 {
 	"name": [
 		"Xxxxx xxxxxxx",
-		"Decreto detalha auxílio para reformas",
+		"Decreto, mostre que funciona!",
 		"14 Jul 2017",
 		"Fórum da Pesquisa Anamaco 2018",
 		"3 Ago 2017",
@@ -22,8 +22,12 @@
 		"Mudar o layout da loja traz clientes e torna o trabalho mais agradável",
 		"- Loja mais atrativa ao cliente",
 		"Depoimento do empresário",
-		"31 Ago 2017",
-		"Fale com o gestor"
+		{
+			"undefined": "31 Ago 2017"
+		},
+		{
+			"undefined": "Fale com o gestor"
+		}
 	],
 	"image": [
 		"img/cartao-g.png",
@@ -31,7 +35,8 @@
 		"img/icone-relogio.png",
 		"img/circuito-g.png",
 		"img/circuito-g.png",
-		"img/capa_loja_sylvio.jpg"
+		"img/capa_loja_sylvio.jpg",
+		"https://www.youtube.com/embed/NGaNG1NoN4A"
 	],
 	"description": [
 		"Foi publicado no Diário Oficial da União, o decreto que detalha os valores que serão pagos aos beneficiários do Cartão Reforma, do governo federal.",
