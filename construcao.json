@@ -116,5 +116,13 @@
 	"fale": "Fale com o gestor",
 	"chamada": "Este é um canal direto com quem cuida do projeto de varejo de materiais de construção.",
 	"nomegestor": "Contacte Gabriela Ribeiro!",
-	"telgestor": "61.3362-1788"
+	"telgestor": "61.3362-1788",
+	"agendasemimg": [
+		{
+			"agendaretrancapq": "consultorias",
+			"agendatitulopq": "Contínua capacitação para seus funcionários",
+			"agendatextopq": "Técnicas de vendas são importantes para toda a equipe e os novatos precisam de apoio.",
+			"agendadatapq": "24 Ago 2017"
+		}
+	]
 }
