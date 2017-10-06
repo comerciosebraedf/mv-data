@@ -43,19 +43,21 @@
 			"agendadatapq": "24 Ago 2017"
 		}
 	],
-	"creditopersonagem": "Crédito da imagem",
-	"personagem": "img/capa_loja_sylvio.jpg",
-	"titulocase": "Convidando o cliente para entrar na loja",
-	"chamadacase": "Mudar o layout da loja traz clientes e torna o trabalho mais agradável",
-	"textocase": "Um bancário que sempre teve o desejo de deixar o emprego, para tomar conta de um negócio próprio. Sylvio Romeiro colocou a mão na massa e descobriu no varejo, a oportunidade de ajudar as pessoas a solucionar problemas domésticos, o que o torna feliz com a sua loja de materiais de construção no Lago Sul, a Padicoisa.",
-	"chamadatopicos": "Que benefícios foram percebidos na mudança?",
+	"creditopersonagem": "Anderson Araujo/Heyboo Design",
+	"personagem": "https://cdn.rawgit.com/comerciosebraedf/mv-data/2d1255f25383693b4436fc33972b37b39158dcf2/images/Filhorico_final.jpg",
+	"titulocase": "Empreendedor por acaso",
+	"chamadacase": "Se não fosse por uma dificuldade, a marca masculina Filho Rico não existiria e Éder não teria descoberto um talento",
+	"textocase": "&Eacute;der Carvalho estudava enfermagem, enquanto trabalhava num emprego p&uacute;blico tempor&aacute;rio. Viu seu prazo terminando como funcion&aacute;rio, sem saber o que fazer para garantir uma renda que pudesse garantir sua continuidade na faculdade. Desse problema financeiro, surgiu a alternativa de vender algo. Sem experi&ecirc;ncia em vendas, sentiu-se desconfort&aacute;vel com a ideia. Foi vendendo perfumes que descobriu ser capaz de ganhar a vida com o com&eacute;rcio. Mas uma nova ideia tinha potencial: fabricar roupas. Da necessidade de empreender &agrave; descoberta de uma capacidade pessoal para tocar um neg&oacute;cio, &Eacute;der ganhou confian&ccedil;a e seguiu em frente.&nbsp;",
+	"chamadatopicos": "Sua mais recente aposta no mercado &eacute; a loja de moda masculina em um shopping, com uma barbearia na sobreloja, o nome da marca pr&oacute;pria estampa a fachada: Filho Rico. Que benef&iacute;cios foram percebidos em sua rela&ccedil;&atilde;o com o Sebrae?",
 	"topicos": [
-		"- Loja mais atrativa ao cliente"
+		"- Orientação para quem está começando",
+		"- Atendimento personalizado",
+		"- Soluções de baixo custo para o empresário"
 	],
-	"creditovideo": "Crédito da imagem",
+	"creditovideo": "Anderson Araujo/Heyboo Design",
 	"video": ">",
-	"citacaoempresario": "O sebrae sempre esteve na minha vida de alguma forma, porque sempre foi vontade minha ser dono de empresa. O Sebrae é minha segunda faculdade. Quanto mais tiver cursos, mais eu tô fazendo.",
-	"datapostagem": "31 Ago 2017",
+	"citacaoempresario": "Foi por conta de uma necessidade que eu descobri que tinha uma capacidade de gerar dinheiro com um neg&oacute;cio. Uma luz se acendeu em mim e eu me apaixonei pela atividade empreendedora.",
+	"datapostagem": "05 Out 2017",
 	"fale": "Fale com o gestor",
 	"chamada": "Este é um canal direto com quem cuida do projeto de varejo de materiais de construção.",
 	"nomegestor": "Contacte Thiago Angelo!",
