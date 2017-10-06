@@ -1,8 +1,8 @@
 {
 	"creditoimgnews": "Xxxxx xxxxxxx",
 	"imgnews": "img/cartao-g.png",
-	"newstituloP": "Decreto detalha auxílio para reformas teste 2",
-	"newstextoP": "Foi publicado no Diário Oficial da União, o decreto que detalha os valores que serão pagos aos beneficiários do Cartão Reforma, do governo federal.",
+	"newstituloP": "Decreto detalha auxílio para reformas",
+	"newstextoP": "Foi publicado no Di&aacute;rio Oficial da Uni&atilde;o, o decreto que detalha os valores que ser&atilde;o <strong>pagos</strong> aos benefici&aacute;rios do Cart&atilde;o Reforma, do governo federal.",
 	"newsdataP": "14 Jul 2017",
 	"newsfonteP": "Por Agência Brasil",
 	"newstitulo1": "Fórum da Pesquisa Anamaco 2018",
@@ -43,7 +43,7 @@
 			"agendadatapq": "24 Ago 2017"
 		}
 	],
-	"creditopersonagem": "Crédito da imagem",
+	"creditopersonagem": "Anderson Araujo/Heyboo Design",
 	"personagem": "https://cdn.rawgit.com/comerciosebraedf/mv-data/941056d0b1fcb7c77f88b74e08b1d84a13f7f0db/images/romulo_lentesetorial_fim.jpg",
 	"titulocase": "Buscando aprendizado para melhor tocar o negócio",
 	"chamadacase": "No caminho oposto do que antigos donos de oficinas mecânicas, ele apostou na própria educação como empreendedor, para criar uma empresa de sucesso",
