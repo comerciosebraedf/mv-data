@@ -24,13 +24,13 @@
 	"agendatextoP": "Entenda como melhorar a qualidade das opera&ccedil;&otilde;es da sua empresa para torn&aacute;-la mais competitiva",
 	"agendadataP": "14 Ago 2017",
 	"agendaretranca1": "PALESTRA",
-	"agendacredito1": "Xxxxx xxxxxxx",
+	"agendacredito1": "Creativeart / Freepik",
 	"agendaimg1": "https://cdn.rawgit.com/comerciosebraedf/mv-data/4d2edcf5aada4ed70f074957ff33290c413ccd4c/images/OAYTRW0.jpg",
 	"agendatitulo1": "Marketing",
 	"agendatexto1": "Conhe&ccedil;a as estrat&eacute;gias mais adequadas para impulsionar a sua empresa",
 	"agendadata1": "19 Out 2017",
 	"agendaretranca2": "CURSO",
-	"agendacredito2": "Xxxxx xxxxxxx",
+	"agendacredito2": "katemangostar / Freepik",
 	"agendaimg2": "https://cdn.rawgit.com/comerciosebraedf/mv-data/9958f0f932461721de0142c4f39383aeec7eec71/images/3798.jpg",
 	"agendatitulo2": "Liderança Coaching Empresarial",
 	"agendatexto2": "Lideran&ccedil;a eficaz e assertiva. Conhe&ccedil;a as ferramentas.&nbsp;",
@@ -39,8 +39,14 @@
 		{
 			"agendaretrancapq": "CONSULTORIA",
 			"agendatitulopq": "Controles Financeiros",
-			"agendatextopq": "T&eacute;cnicas de vendas s&atilde;o importantes para toda a equipe e os novatos precisam de apoio.",
-			"agendadatapq": "24 Ago 2017"
+			"agendatextopq": "Melhore a gest&atilde;o financeira da sua empresa. Diminua riscos, evite problemas financeiros e tenha seguran&ccedil;a na tomada de deci&otilde;es.",
+			"agendadatapq": "Entre em contato com a gestora"
+		},
+		{
+			"agendaretrancapq": "CONSULTORIA",
+			"agendatitulopq": "Gestão de Estoque e Logística",
+			"agendatextopq": "Controle desperd&iacute;cios, evite investimentos desnecess&aacute;rios, atenda e fidelize seus clientes com mais agilidade.",
+			"agendadatapq": "Entre em contato com a gestora"
 		}
 	],
 	"creditopersonagem": "Anderson Araujo/Heyboo Design",
