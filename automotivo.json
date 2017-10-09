@@ -10,11 +10,11 @@
 	"newsdata1": "18 Set 2017",
 	"newsfonte1": "Por ABVE",
 	"newstitulo2": "Fenabrave revisa projeções para cima",
-	"newstexto2": "Entidade prev&ecirc; venda maior de leves e queda menor de caminh&otilde;es. Saiba mais aqui.",
+	"newstexto2": "Entidade prev&ecirc; venda maior de leves e queda menor de caminh&otilde;es. Saiba mais <a href=\"http://emkt.allrightcomunicacao.com.br/emkt/tracer/?2,4499645,85a01990,ad75,9\" target=\"_blank\" rel=\"noopener\"><strong>aqui</strong></a>.",
 	"newsdata2": "03 Out 2017",
 	"newsfonte2": "Por Automotive Business",
 	"newstitulo3": "Ford anuncia parceria para a produção de veículos elétricos na China",
-	"newstexto3": "Representantes dos sindicatos de comércio e serviços foram recebidos para tratar sobre reforma trabalhista, que poderia melhorar condições das empresas.",
+	"newstexto3": "A parceria visa abrie caminho para a populariza&ccedil;&atilde;o dos carros aut&ocirc;nomos e torn&aacute;-los mais acess&iacute;veis. Saiba mais <a href=\"http://emkt.allrightcomunicacao.com.br/emkt/tracer/?2,4499645,85a01990,ad75,9\" target=\"_blank\" rel=\"noopener\"><strong>aqui</strong></a>.",
 	"newsdata3": "02 out 2017",
 	"newsfonte3": "Por Carpress",
 	"agendaretrancaP": "CURSO",
@@ -66,5 +66,6 @@
 	"fale": "Fale com a gestora",
 	"chamada": "Este é um canal direto com quem cuida do projeto do setor automotivo.",
 	"nomegestor": "Contacte Gabriela Ribeiro!",
-	"telgestor": "61.3362-1768"
+	"telgestor": "61.3362-1768",
+	"agendacreditoP": "Crédito da imagem"
 }
