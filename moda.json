@@ -25,6 +25,12 @@
 			"agendatitulopq": "Desenvolvimento de Liderança comercial (DLC)",
 			"agendatextopq": "Lideran&ccedil;a pode ser definida de diversas formas, mas, o que podemos afirmar categoricamente &eacute; que o l&iacute;der &eacute; aquele que motiva a sua equipe.&nbsp;",
 			"agendadatapq": "23 Out 2017"
+		},
+		{
+			"agendaretrancapq": "TREINAMENTO",
+			"agendatitulopq": "Programa de Desenvolvimento de vendas (PDV)",
+			"agendatextopq": "O vendedor &eacute; o elo entre a sua loja e os clientes. Participe do treinamento e saiba mais sobre que comportamentos se destacam na hora da venda.",
+			"agendadatapq": "10 Nov 2017"
 		}
 	],
 	"creditopersonagem": "Anderson Araujo/Heyboo Design",
@@ -60,6 +66,7 @@
 	"agendaretranca2": "treinamento",
 	"agendaimg2": "https://cdn.rawgit.com/comerciosebraedf/mv-data/477cade0e8537c629639fbc1e71df090fe34b0c5/images/Excelência%20de%20design%20de%20serviços-facebook2.jpg",
 	"agendatitulo2": "Programa de Desenvolvimento de vendas (PDV) ",
-	"agendatexto2": "A pr&aacute;tica de vendas &eacute; uma das profissi&otilde;es mais antigas do mundo. Ao longo dos anos o consumo e as t&eacute;cnicas de vendas evolu&iacute;ram. O vendedor &eacute; o elo entre a sua loja e os clientes. Participe do treinamento e saiba mais sobre que comportamentos se destacam na hora da venda.&nbsp;&nbsp;",
-	"agendadata2": "20 Out 2017"
+	"agendatexto2": "A pr&aacute;tica de vendas &eacute; uma das profissi&otilde;es mais antigas do mundo. Ao longo dos anos o consumo e as t&eacute;cnicas de vendas evolu&iacute;ram. O vendedor &eacute; o elo entre a sua loja e os clientes. Participe do treinamento e saiba mais sobre que comportamentos se destacam na hora da venda.",
+	"agendadata2": "20 Out 2017",
+	"agendadata1": "14 Ago 2017"
 }
