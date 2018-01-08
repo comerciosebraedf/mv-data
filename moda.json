@@ -19,20 +19,7 @@
 	"agendatituloP": "Missão Técnica Benchmarking MODA 2018 NY",
 	"agendatextoP": "De 09 a 15/02/2017 SEBRAE no DF promover&aacute; miss&atilde;o t&eacute;cnica para NY que levar&aacute; empres&aacute;rio do Distrito Federal para conhecer as tend&ecirc;ncias aplicadas aos neg&oacute;cios da moda.&nbsp;",
 	"agendacredito1": "SEBRAE DF",
-	"agendasemimg": [
-		{
-			"agendaretrancapq": "Treinamento ",
-			"agendatitulopq": "Desenvolvimento de Liderança comercial (DLC)",
-			"agendatextopq": "Lideran&ccedil;a pode ser definida de diversas formas, mas, o que podemos afirmar categoricamente &eacute; que o l&iacute;der &eacute; aquele que motiva a sua equipe.&nbsp;",
-			"agendadatapq": "23 Out 2017"
-		},
-		{
-			"agendaretrancapq": "TREINAMENTO",
-			"agendatitulopq": "Programa de Desenvolvimento de vendas (PDV)",
-			"agendatextopq": "O vendedor &eacute; o elo entre a sua loja e os clientes. Participe do treinamento e saiba mais sobre que comportamentos se destacam na hora da venda. Data: 13 nov 2017 de 09h &agrave;s 18h.",
-			"agendadatapq": "10 Nov 2017"
-		}
-	],
+	"agendasemimg": [],
 	"creditopersonagem": "Anderson Araujo/Heyboo Design",
 	"personagem": "https://cdn.rawgit.com/comerciosebraedf/mv-data/2d1255f25383693b4436fc33972b37b39158dcf2/images/Filhorico_final.jpg",
 	"titulocase": "Empreendedor por acaso",
