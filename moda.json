@@ -3,7 +3,7 @@
 	"agendacreditoP": "SEBRAE no DF",
 	"agendaretrancaP": "Evento",
 	"agendaimgP": "img/circuito-g.png",
-	"agendacredito1": "SEBRAE DF",
+	"agendacredito1": "Projeto Elevate",
 	"agendasemimg": [],
 	"creditopersonagem": "Anderson Araujo/Heyboo Design",
 	"personagem": "https://cdn.rawgit.com/comerciosebraedf/mv-data/2d1255f25383693b4436fc33972b37b39158dcf2/images/Filhorico_final.jpg",
@@ -26,6 +26,8 @@
 	"telgestor": "61.3362-1768",
 	"agendacredito2": "SEBRAE  DF",
 	"newsdata3": "09 Jul 2018",
+	"agendaretranca1": "WORKSHOP",
+	"agendatitulo1": "Workshop Moda Intuitiva com Cris Guerra",
 	"creditoimgnews": "Tripé ",
 	"imgnews": "https://cdn.rawgit.com/comerciosebraedf/mv-data/51b053be364c39cb41500de4985bf5c471cd7457/images/AW7I5241.jpg",
 	"newstituloP": "Tendências de Moda",
@@ -42,5 +44,11 @@
 	"newstitulo3": "Conteúdos sobre moda ",
 	"newstexto3": "Conhe&ccedil;a os diversos conte&uacute;dos que o SEBRAE DF possui sobre o segmento. Visite o nosso portal e encontre materiais para download. Visite <a title=\"conte&uacute;dos\" href=\"http://www.sebrae.com.br/sites/PortalSebrae/ufs/df/sebraeaz/cartilhas-e-guias,5a92089f79d8e410VgnVCM1000003b74010aRCRD\" target=\"_blank\" rel=\"noopener\"><em><strong>SEBRAE no DF</strong></em></a>",
 	"newsfonte3": "Por SEBRAE DF - Thiago Angelo ",
-	"agendaimgPrincipal": "https://cdn.rawgit.com/comerciosebraedf/mv-data/e26917e63f1582a48d98841636960f71edfc390d/images/tendencias-da-moda-portal.jpg"
+	"agendaimgPrincipal": "https://cdn.rawgit.com/comerciosebraedf/mv-data/e26917e63f1582a48d98841636960f71edfc390d/images/tendencias-da-moda-portal.jpg",
+	"agendatituloP": "Tendências da Moda Internacional ",
+	"agendatextoP": "Evento que tem por objetivo aproximar os empres&aacute;rios locais das principais tend&ecirc;ncias da moda internacional para Primavera/ver&atilde;o 2018/2019.",
+	"agendadataP": "Fale com o SEBRAE no DF",
+	"agendaimg1": "https://cdn.rawgit.com/comerciosebraedf/mv-data/4f812163312d2e6070921a3d8771964b8d0e6f39/images/Cris%20Guerra%20Moda%20Intuitiva.jpg",
+	"agendatexto1": "Inscri&ccedil;&otilde;es no portal da <a title=\"Elevate\" href=\"http://www.projetoelevate.com.br/shopping\" target=\"_blank\" rel=\"noopener\"><strong><em>Projeto Elevate</em></strong></a>",
+	"agendadata1": "17/07/2018"
 }
